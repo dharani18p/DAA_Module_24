@@ -19,8 +19,8 @@ To Solve Travelling Sales man Problem for the following graph.
 
 ## Program:
 ```
-# Developed by: Aparna RB
-# Register Number: 212222220005
+# Developed by:Dharani P
+# Register Number: 212222220011
 
 
 
